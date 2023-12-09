@@ -1,3 +1,3 @@
 # AOC 2023
 
-Christmas based coding marathon
+Advent of Code is an christmas based coding marathon by Eric Wastl. 
