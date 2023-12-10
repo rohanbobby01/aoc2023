@@ -6,7 +6,6 @@ with open('input.txt') as file:
     row, col = len(mat), len(mat[0])
     dr = [(0, 1), (1, 0), (-1, 0), (0, -1), (1, 1), (-1, -1), (-1, 1), (1, -1)]
     mapper = defaultdict(list)
-    visit = set()
 
     ans1 = 0
     ans2 = 0
