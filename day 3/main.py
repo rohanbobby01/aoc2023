@@ -1,5 +1,4 @@
 from collections import defaultdict
-from functools import reduce
 
 with open('input.txt') as file:
     mat = file.read().split()
